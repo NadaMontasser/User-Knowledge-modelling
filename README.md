@@ -16,6 +16,7 @@ user testing of target objects (PEG)]. Using Support vector machine (SVM) and pe
    b) Convert the target (UNS) from categorical to numerical.
 
  2.3 Building the classification models:
+ 
   • SVM
 
   • Perceptron
